@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 
-# Developed by:Iswarya P
+# Name:Iswarya P
 # Reg no:212223230082
 
 ## AIM
