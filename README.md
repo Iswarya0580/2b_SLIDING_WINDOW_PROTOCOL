@@ -4,6 +4,7 @@
 # Reg no:212223230082
 
 ## AIM
+To implement the sliding window protocol.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
